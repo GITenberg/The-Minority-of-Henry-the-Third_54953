@@ -1,11 +1,16 @@
 _repo: The-Minority-of-Henry-the-Third_54953
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54953-h/images/cover.jpg
 creator:
   author:
     agent_name: Norgate, Kate
     gutenberg_agent_id: '48118'
     url: http://www.gutenberg.org/2009/agents/48118
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54953#The-Minority-of-Henry-the-Third
 gutenberg_issued: '2017-06-21'
 gutenberg_type: Text
 identifiers:
